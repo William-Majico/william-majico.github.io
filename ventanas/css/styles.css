@@ -1,0 +1,149 @@
+body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    text-align: center;
+  }
+
+  header {
+    background: linear-gradient(
+      to bottom,
+      #000428,
+      #004e92
+    ); /* Degradado de fondo */
+    color: #fff; /* Color del texto */
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5); /* Sombra al texto */
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1;
+    border-bottom: 2px solid #ff6f61; /* Línea inferior */
+  }
+
+  h1 {
+    margin: 0;
+    text-align: center;
+    flex-grow: 1;
+    font-size: 1.8em; /* Tamaño de fuente */
+    text-transform: uppercase; /* Transformar texto a mayúsculas */
+    letter-spacing: 2px; /* Espaciado entre letras */
+  }
+
+  #movie-info {
+    margin-top: 160px; /* Ajuste para el header fijo */
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    max-width: 80%; /* Ancho máximo del contenedor */
+    margin-left: auto; /* Alinear a la derecha */
+    margin-right: auto; /* Alinear a la izquierda */
+  }
+
+  #movie-info img {
+    max-width: 30%; /* Ajustar imagen al ancho del contenedor */
+    height: auto;
+    border-radius: 10px; /* Borde redondeado */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); /* Sombra */
+    margin-bottom: 20px; /* Espacio inferior */
+  }
+
+  @media screen and (max-width: 768px) {
+    #movie-info img {
+        max-width: 90%; /* Ajustar el tamaño máximo para pantallas pequeñas */
+    }
+}
+
+  #capturas-container {
+    display: flex;
+    justify-content: center; /* Centrar horizontalmente */
+    align-items: center; /* Centrar verticalmente */
+    flex-wrap: wrap; /* Permitir que las imágenes se envuelvan */
+  }
+
+  #capturas-container img {
+    max-width: 50%; /* Ancho máximo de las imágenes */
+    height: auto; /* Altura automática para mantener la proporción */
+    border-radius: 10px; /* Borde redondeado */
+    margin: 10px; /* Espacio entre imágenes */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Sombra */
+  }
+
+  @media screen and (max-width: 768px) {
+    #capturas-container img {
+        max-width: 90%; /* Ajustar el tamaño máximo para pantallas pequeñas */
+    }
+}
+
+  #episodios {
+    font-family: "Roboto", sans-serif; /* Cambio de fuente */
+    color: #333; /* Color del texto */
+    background-color: #f9f9f9; /* Color de fondo */
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    text-align: left; /* Alinear la lista de episodios a la izquierda */
+    margin-left: 20px; /* Ajuste de margen izquierdo */
+  }
+
+  #episodios li {
+    margin-bottom: 10px;
+  }
+
+  #episodios li a {
+    display: block;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #e4e4e4;
+    color: #333;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+
+  #episodios li a:hover {
+    background-color: #ccc;
+  }
+
+  #btn-back {
+    background-color: #ff6f61; /* Color de fondo */
+    color: #fff; /* Color del texto */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease; /* Efecto de transición */
+    font-size: 1em; /* Tamaño de fuente */
+  }
+
+  #btn-back:hover {
+    background-color: #e04e3f; /* Cambio de color al pasar el mouse */
+  }
+
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    width: 100%;
+  }
+
+  footer a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+
+  /* Estilos específicos para pantallas pequeñas */
+  @media screen and (max-width: 768px) {
+    footer {
+      padding: 10px; /* Reducir el relleno en pantallas pequeñas */
+    }
+
+    footer a {
+      margin: 5px; /* Reducir el margen entre los enlaces */
+    }
+  }
