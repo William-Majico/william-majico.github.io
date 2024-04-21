@@ -1,0 +1,1 @@
+<?phpclass TOROFLIX_Activator{	public static function activate(){		$blocks = array();		$blocks = array('movies', 'series');		add_option( 'block_home_views', $blocks  );		update_option('thumbnail_size_w', 160);		update_option('thumbnail_size_h', 240);	}}
