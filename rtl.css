@@ -1,0 +1,55 @@
+.Search input{right: 0;}
+.Menu li[class*="AAIco-"]>a, .Menu li[class*="fa-"]>a, .menu li[class*="AAIco-"]>a, .menu li[class*="fa-"]>a{padding-left: 0;padding-right: 2rem;}
+.Menu li[class*="AAIco-"]:before, .Menu li[class*="fa-"]:before, .menu li[class*="AAIco-"]:before, .menu li[class*="fa-"]:before{left: auto;right: 1.1rem;}
+.Menu li.menu-item-has-children>a{padding-right: .5rem;padding-left: 1.5rem;}
+.menu-item-has-children>a:after{right: auto;left: .5rem;}
+.SrtdBy .List{margin-left: 0;margin-right: -1.5rem;}
+.SrtdBy:after{margin-right: -1.3rem;margin-left: 0;}
+section>.Top[class*="fa-"]>.Title, section>.Top[class*="AAIco-"]>.Title, article>.Top[class*="fa-"]>.Title, article>.Top[class*="AAIco-"]>.Title{padding-left: 0;padding-right: 2rem;}
+section>.Top>.Title, article>.Top>.Title{margin-right: 0;margin-left: .5rem;}
+section>.Top[class*="fa-"]:before, section>.Top[class*="AAIco-"]:before, article>.Top[class*="fa-"]:before, article>.Top[class*="AAIco-"]:before{left: auto;right: 0;}
+.MovieListTop .owl-dots, .RelatedList .owl-dots{right: auto;left: 0;}
+.Wdgt .menu li li:before{right: .4rem;left: auto!important;}
+.widget_nav_menu>div>ul{padding-right: 0;}
+.widget_nav_menu>div>ul>li[class*="current"]{border-left: 0;border-right: 3px solid transparent;}
+.Frm-Slct .Form-Group>label, .Frm-Slct .sol-input-container{margin-left: 0;margin-right: 120px;}
+.Frm-Slct>label,.widget_categories>ul li>a:before{left: auto;right: 0;}
+.SearchMovies label:before{margin-right: 0;margin-left: .5rem;}
+.Frm-Slct>label{padding-left: 0;padding-right: .5rem;}
+.widget_categories>ul li>a{text-align: right;}
+.widget_categories>ul li{text-align: left;padding-right: 0;padding-left: 1rem;}
+.TPost .Title, .TPost .Info>*{margin-right: 0;margin-left: .4rem;}
+.TPost.C .Title>span{margin-right: .4rem;}
+.TPost.C{padding-right: 68px;padding-left: 0;}
+.TPost.C .Top,.TPost.C .Image{left: auto;right: 0;}
+a.nextpostslink,a.last,.AF.Rows>*,.TPost .Info>*{float: right;}
+.TPost.B .Image .TpTv{left: auto;right: 10px;}
+.TPost.B .Image .Qlty{left: auto;right: 5px;}
+.drpdn{margin-right: 0;margin-left: 16px;}
+.optnslst{left: auto;right: 0;}
+.optns-bx *>.Button>span{padding-right: 0;padding-left: 16px;text-align: right;}
+.navepi a i{order:1}
+.navepi a span+i{order:-1}
+.TPTblCn td.MvTbTtl{text-align: right;}
+.OptionBx .Optntl span{left: 0;right: auto;}
+.VideoPlayer>span[class*="Btn"]{right: auto;left: -5px;}
+
+@media screen and (max-width:62em){
+.Menu>ul>li li.menu-item-has-children>a{padding-left: .5rem;padding-right: 2rem;}
+.menu-item-has-children>a:after{transform: rotate(-270deg);}
+.BuyNow>a{margin-right: .5rem;margin-left: 1rem;padding-left: 1rem!important;padding-right: 2rem!important;}
+.BuyNow:before{margin-left: 0;margin-right: .5rem;}
+.owl-dots>div:first-child{margin-left: .09rem;}
+.owl-dots>div:last-child{margin-right: .09rem;}
+}
+
+@media screen and (min-width:62em){
+.Header .Logo{order: -1;margin-right: 0;margin-left: 16px;}
+.BuyNow>a{padding-left: 1rem!important;padding-right: 2rem!important;}
+.TpRwCont>main{padding-right: 0;padding-left: 1.875rem;}
+.sub-menu .sub-menu{left: auto;right: 100%;}
+.sub-menu:hover{overflow: visible;}
+.Menu li li.menu-item-has-children>a{padding-right: 1.5rem;padding-left: .5rem;}
+.Menu li li.menu-item-has-children:before{right: 0;}
+.SrtdBy{right: auto;left: .8rem;}
+}

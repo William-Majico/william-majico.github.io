@@ -1,0 +1,151 @@
+### 06.12.2019 - V1.0
+    - Initial release
+
+### 23.12.2019 - V1.???
+	- Fixed: Genres on movies/series/episodes
+	- Fixed: CSS General
+	- Fixed: Languages
+	- Added: Home - Numer of items on lists
+
+### 24.12.2019 - V1.???
+	- Fixed: player on series
+
+### 26.12.2019 - V1.???
+	- Add attribute allowscreen to iframes
+	- Fixed: Numeration on letter pages
+
+### 26.12.2019 - V1.???
+	- Fixed: Posts per page on movies page
+	- Fixed: Number episode on taxonomy season
+
+### 31.12.2019 - V1.???
+	- Fixed: Series Page
+	- Fixed: Trailer Movie
+
+### 14.02.2020 - V1.1.13
+	- Add option activate lazy load image
+	- Add Language Turquia
+	- Fixed: Languages
+
+### 15.02.2020 - V1.1.14
+	- Add option select type post on block popular of Home
+	- Fixed: Social on episodes
+	- Fixed: bug on block seasons of Home
+	- Add: Widget Info can upload image
+	- Add: Comments on page movie and series
+	- Fixed: some bugs and CSS
+	- Fixed: double name in blok episodes of home
+
+### 23.02.2020 - V1.1.15
+	- Fixed Season order 
+
+### 23.02.2020 - V1.1.16
+	- Add Sidebar Position in customizer 
+	- Fixed links of players 
+	- Add Trailer on movies without players 
+
+### 24.02.2020 - V1.1.17
+	- Fixed bug in poster of movies and series
+
+### 24.02.2020 - V1.1.18
+	- Fixed bug in trailer movies without links
+
+### 11.03.2020 - V1.1.21
+	- Added sticky post on slider home
+
+### 11.03.2020 - V1.25
+	- Added attributo lazy on images
+
+### 07.10.2020 - V1.26
+	- Added ads on home and single movies
+	- Added options change title in home
+
+### 07.10.2020 - V1.27
+	- Fixed: bug in ads home block
+
+### 08.10.2020 - V1.28
+	- Added: Chinese, Japanese and German languages
+	- Fixed: Languages 
+
+### 18.10.2020 - V1.29
+	- Added: Option Analityc
+
+### 1.11.2020 - V1.30
+	- Updated: Plugin TR-Grabber
+	- Fixed: bug with special season
+	- Added: Report in series and movies
+
+### 10.11.2020 - V1.31
+	- Fixed: bugs with classes from movies and series
+
+### 13.11.2020 - V1.32
+	- Fixed: bug with image backdrop
+
+### 28.11.2020 - V1.33
+	- Fixed: bug in movies
+
+### 03.12.2020 - V1.34
+	- Fixed: bug in seasons and episodes
+	- Added: option player automatic slider home
+
+### 05.12.2020 - V1.35
+	- Fixed: bugs in class seasons and episodes
+
+### 21.01.2021 - V1.36
+	- Added: description in categories and terms
+
+### 11.02.2021 - V1.37
+	- Fixed: Desing of widget list post
+	- Added: Filter by category for widget list post
+
+### 11.02.2021 - V1.38
+	- Added: file of requirements system
+
+### 03.03.2021 - V1.39
+	- Fixed: Images and various elements in RTL
+	- Added: Improvement in RTL
+
+### 06.03.2021 - V1.40
+	- Fixed: CSS and styles
+
+### 15.03.2021 - V1.41
+	- Added: Tabs players for languages
+	- Added: Option for tabs for language
+	- Fixed: Trailer player
+	- Added: Next and prev episode
+
+### 23.03.2021 - V1.42
+	- Fixed: CSS for tabs and episodes next/prev
+	- Fixed: Search suggest
+	- Fixed: Filter widget
+
+### 24.03.2021 - V1.43
+	- Fixed: Bug in tabs and episodes next/prev
+
+### 25.03.2021 - V1.44
+	- Fixed: Images on slider
+
+### 31.03.2021 - V1.45
+	- Fixed: Episodes info 
+	- Added: Tags for movies and series
+
+### 31.03.2021 - V1.46
+	- Fixed: Bug in download ZIP
+
+### 07.04.2021 - V1.47
+	- Fixed: pagination on actor and director
+	- Fixed: The toroflix Filter
+
+### 08.04.2021 - V1.48
+	- Added: rating for movies and series
+	- Fixed: votes for movies and series
+
+### 08.04.2021 - V1.50
+	- Added: Option for languages in theme panel
+
+### 15.07.2021 - V1.51
+	- Fixed: Security bug
+
+### 24.07.2021 - V1.52
+	- Added: Shortcode in trailer
+	- Fixed: Bug in class backdrop
