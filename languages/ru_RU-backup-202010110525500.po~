@@ -1,0 +1,690 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: toroflix\n"
+"POT-Creation-Date: 2020-10-11 00:14-0500\n"
+"PO-Revision-Date: 2020-10-11 00:15-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:5
+#, fuzzy
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Эта страница не найдена."
+
+#: 404.php:6 taxonomy-letters.php:1
+#, fuzzy
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Похоже, в этом месте ничего не было найдено. Возможно, попробуйте одну из "
+"ссылок ниже или поиск?"
+
+#: 404.php:10
+#, fuzzy
+msgid "Most Used Categories"
+msgstr "Самые популярные категории"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Default"
+msgstr "По умолчанию"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Colors"
+msgstr "Цвета"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Color scheme"
+msgstr "Цветовая схема"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Main Color"
+msgstr "Основной цвет"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Body Background"
+msgstr "Фон Body"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "General - Text Color"
+msgstr "Общие - Цвет текста"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "General - Links Color"
+msgstr "Общие - Ссылки Цвет"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "General - Titles - Color"
+msgstr "Общие - Названия - Цвет"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Header - Background"
+msgstr "Заголовок - фон"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Menu Links Color"
+msgstr "Цвет Ссылок Меню По Центру"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Menu Links Color Hover"
+msgstr "Ссылки на меню Цвет навешивания"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Menu Icons Color"
+msgstr "Иконки меню Цвет"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Submenus Brackground"
+msgstr "Подменю Торгового поля"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Submenus Text Color"
+msgstr "Подменю Цвет текста"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Submenus Links Color"
+msgstr "Подменю Цвет ссылок"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Submenus Links Color Hover"
+msgstr "Подменю Ссылки Цвет виселицы"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Banner Top Background"
+msgstr "Топ фон баннера"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Banner Top Links Color"
+msgstr "Цвет верхней ссылки баннера"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Banner Top Links Color Hover"
+msgstr "Топ-ссылки баннера Цвет навешивания"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Banner Top Text Color"
+msgstr "Цвет текста баннера"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Buttons Background"
+msgstr "Фон кнопки"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Buttons Background Hover"
+msgstr "Фон кнопок при наведении"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Buttons Text Color"
+msgstr "Цвет текста кнопок"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Buttons Text Color Hover"
+msgstr "Цвет текста кнопки при наведении"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Form controls Background"
+msgstr "Формы управления Фоновое управление"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Form controls Text Color"
+msgstr "Форма управления Цвет текста"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Widget - Backgorund"
+msgstr "Виджет - Бакгорунд"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Widget Title - Backgorund"
+msgstr "Название виджета - Бакгорунд"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Widget Title - Color"
+msgstr "Название виджета - Цвет"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Widget Text Color"
+msgstr "Цвет текста виджета"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Widget Links Color"
+msgstr "Цвет ссылок виджета"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Widget Links Color Hover"
+msgstr "Виджет ссылки Цвет виджета виселицы"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Title Background"
+msgstr "Название таблицы Фон"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Title Text"
+msgstr "Текст заголовка таблицы"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Cell Background"
+msgstr "Справочник по ячейкам таблицы"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Cell Background Hover"
+msgstr "Навешивание фона столовых клеток"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Cell Text"
+msgstr "Текст ячейки таблицы"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Cell Links"
+msgstr "Ссылки на настольные ячейки"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Cell Links Hover"
+msgstr "Связь между настольными ячейками наверху"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Pagination Links Background"
+msgstr "Ссылки на страницу Фон"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Pagination Links Background Hover"
+msgstr "Ссылки на пагинацию Фоновое покрытие"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Pagination Links Color"
+msgstr "Ссылки на страницу Цвет"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Pagination Links Color Hover"
+msgstr "Ссылки на пагинацию Цвет виселицы"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Top - Background"
+msgstr "Верхняя ступенька - фон"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Top - Text Color"
+msgstr "Подножка - Цвет текста"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Top - Links Color"
+msgstr "Верхняя часть ноги - Цвет ссылки"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Top - Links Color Hover"
+msgstr "Верхняя часть ноги - Ссылки цветная навеска"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Bot - Background"
+msgstr "Бот нижней части - фон"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Bot - Text Color"
+msgstr "Бот нижней части - Цвет текста"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Bot - Links Color"
+msgstr "Бот для ног - Цвет ссылки"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Bot - Links Color Hover"
+msgstr "Бот для нижней части ноги - Связь цветной парилки"
+
+#: archive-movies.php:14 public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "Movies"
+msgstr "Фильмы"
+
+#: archive-movies.php:23 archive-series.php:23 archive.php:1 category.php:1
+#: search.php:55 tag.php:1 taxonomy.php:1
+#, fuzzy
+msgid "There are no articles"
+msgstr "Нет никаких статей"
+
+#: archive-series.php:14 public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "Series"
+msgstr "Серии"
+
+#: archive.php:1
+#, fuzzy
+msgid "Archive"
+msgstr "Архив"
+
+#: comments.php:1
+#, fuzzy
+msgid "Comments"
+msgstr "Комментарии"
+
+#: comments.php:1
+#, fuzzy
+msgid "Cancel reply"
+msgstr "Отменить ответ"
+
+#: comments.php:1
+#, fuzzy
+msgid "Post Comment"
+msgstr "Оставить комментарий"
+
+#: includes/class-toroflix-movies.php:1
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Movie"
+msgstr "Видео"
+
+#: includes/class-toroflix-movies.php:1
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Serie"
+msgstr "Серия"
+
+#: includes/class-toroflix-sidebar.php:1
+#, fuzzy
+msgid "Sidebar Principal"
+msgstr "Боковой директор"
+
+#: includes/class-toroflix-sidebar.php:1
+#, fuzzy
+msgid "Sidebar principal del theme"
+msgstr "Боковой директриса"
+
+#: includes/class-toroflix-sidebar.php:1
+#, fuzzy
+msgid "Sidebar Footer"
+msgstr "Сайдбар подвала"
+
+#: includes/class-toroflix-sidebar.php:1
+#, fuzzy
+msgid "Sidebar Footer del theme"
+msgstr "Боковая стенка Футер дель тема"
+
+#: includes/customizer.php:1
+#, fuzzy
+msgid "Header Option"
+msgstr "Настройка Шапки"
+
+#: includes/sticky_post.php:1
+#, fuzzy
+msgid "Sticky Post"
+msgstr "Закрепить запись"
+
+#: includes/sticky_post.php:1
+#, fuzzy
+msgid "Sticky post"
+msgstr "Липкий пост"
+
+#: includes/widgets/widget-toroflix-filter.php:1
+#: includes/widgets/widget-toroflix-footer-info.php:1
+#: includes/widgets/widget-toroflix-genres.php:1
+#: includes/widgets/widget-toroflix-letters.php:1
+#: includes/widgets/widget-toroflix-navigation.php:1
+#: includes/widgets/widget-toroflix-search-movies.php:1
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: includes/widgets/widget-toroflix-footer-info.php:1
+#, fuzzy
+msgid "Description:"
+msgstr "Описание:"
+
+#: includes/widgets/widget-toroflix-navigation.php:1
+#, fuzzy
+msgid "Select menu"
+msgstr "Выберите меню"
+
+#: includes/widgets/widget-toroflix-search-movies.php:1 taxonomy-letters.php:1
+#, fuzzy
+msgid "Year"
+msgstr "Год"
+
+#: includes/widgets/widget-toroflix-search-movies.php:1
+#: public/partials/do_action/do_action_episode.php:53
+#: public/partials/do_action/do_action_season.php:1
+#: public/partials/do_action/do_action_series.php:61
+#: public/partials/template/header_single.php:1
+#: public/partials/template/loop-principal.php:1
+#: public/partials/template/loop-slider.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "Genre"
+msgstr "Жанр"
+
+#: includes/widgets/widget-toroflix-search-movies.php:1
+#, fuzzy
+msgid "SEARCH"
+msgstr "ПОИСК"
+
+#: includes/widgets/widget-toroflix-top-series.php:1 taxonomy-letters.php:1
+#, fuzzy
+msgid "Type"
+msgstr "Тип"
+
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Number of posts to show:"
+msgstr "Количество постов для отображения:"
+
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Design"
+msgstr "Дизайн"
+
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Order"
+msgstr "Заказ"
+
+#: includes/widgets/widget-toroflix-top-series.php:1
+#: public/partials/do_action/do_action_home.php:1 taxonomy.php:1
+#, fuzzy
+msgid "Latest"
+msgstr "Последние"
+
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Views (Require WP-PostViews)"
+msgstr "Просмотры (требуют WP-PostViews)"
+
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Random"
+msgstr "Случайно"
+
+#: page.php:12
+#, fuzzy
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: public/partials/do_action/do_action_episode.php:44 taxonomy-episodes.php:1
+#, fuzzy
+msgid "All Episodes"
+msgstr "Все эпизоды"
+
+#: public/partials/do_action/do_action_episode.php:51
+#: public/partials/do_action/do_action_season.php:1
+#: public/partials/do_action/do_action_series.php:60
+#: public/partials/template/header_single.php:1
+#: public/partials/template/loop-principal.php:1
+#: public/partials/template/loop-slider.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "Director"
+msgstr "Режиссер"
+
+#: public/partials/do_action/do_action_episode.php:55
+#: public/partials/do_action/do_action_season.php:1
+#: public/partials/do_action/do_action_series.php:62
+#: public/partials/template/header_single.php:1
+#: public/partials/template/loop-principal.php:1
+#: public/partials/template/loop-slider.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "Cast"
+msgstr "В ролях"
+
+#: public/partials/do_action/do_action_episode.php:68
+#: public/partials/do_action/do_action_episode.php:114
+#: public/partials/do_action/do_action_season.php:1
+#: public/partials/do_action/do_action_series.php:129
+#, fuzzy
+msgid "Season"
+msgstr "Сезон"
+
+#: public/partials/do_action/do_action_episode.php:114
+#, fuzzy
+msgid "Links for The"
+msgstr "Ссылки на The"
+
+#: public/partials/do_action/do_action_episode.php:114
+#, fuzzy
+msgid "Episode"
+msgstr "Эпизод"
+
+#: public/partials/do_action/do_action_episode.php:128
+#: public/partials/do_action/do_action_single.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "Option"
+msgstr "Опции"
+
+#: public/partials/do_action/do_action_episode.php:132
+#: public/partials/do_action/do_action_single.php:1
+#, fuzzy
+msgid "Download"
+msgstr "Скачать"
+
+#: public/partials/do_action/do_action_episode.php:169
+#: public/partials/do_action/do_action_season.php:1
+#: public/partials/do_action/do_action_series.php:166
+#: public/partials/do_action/do_action_single.php:1
+#, fuzzy
+msgid "More titles like this"
+msgstr "Больше наименований, как это"
+
+#: public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "Most popular"
+msgstr "Самые популярные"
+
+#: public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "View more"
+msgstr "Показать еще"
+
+#: public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "Sorted by"
+msgstr "Упорядочено"
+
+#: public/partials/do_action/do_action_home.php:1 taxonomy.php:1
+#, fuzzy
+msgid "Views"
+msgstr "Просмотры"
+
+#: public/partials/do_action/do_action_home.php:1
+#: public/partials/do_action/do_action_series.php:14
+#, fuzzy
+msgid "Seasons"
+msgstr "Сезоны"
+
+#: public/partials/do_action/do_action_home.php:1
+#: public/partials/do_action/do_action_series.php:14
+#, fuzzy
+msgid "Episodes"
+msgstr "Эпизоды"
+
+#: public/partials/do_action/do_action_series.php:44
+#, fuzzy
+msgid "ON AIR"
+msgstr "Воздух ВКЛ."
+
+#: public/partials/do_action/do_action_series.php:44
+#, fuzzy
+msgid "ENDED"
+msgstr "ЗАКОНЧЕН"
+
+#: public/partials/do_action/do_action_series.php:80
+#: public/partials/template/header_single.php:1
+#, fuzzy
+msgid "Watch Trailer"
+msgstr "Смотреть Трейлер"
+
+#: public/partials/do_action/do_action_single.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "Options"
+msgstr "Опции"
+
+#: public/partials/do_action/do_action_single.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "WATCH ONLINE"
+msgstr "ЧАСЫ ОНЛАЙН"
+
+#: public/partials/do_action/do_action_single.php:1
+#, fuzzy
+msgid "Links"
+msgstr "Ссылки"
+
+#: public/partials/template/loop-principal.php:1
+#: public/partials/template/loop-slider.php:1
+#, fuzzy
+msgid "Watch Now"
+msgstr "Смотреть сейчас"
+
+#: searchform.php:1
+#, fuzzy
+msgid "Search movies"
+msgstr "Поиск фильмов"
+
+#: searchform.php:1
+#, fuzzy
+msgid "Loading"
+msgstr "Загрузка"
+
+#: searchform.php:1
+#, fuzzy
+msgid "Show More Results"
+msgstr "Показать больше результатов"
+
+#: single-movies.php:1
+#, fuzzy
+msgid "Report Form"
+msgstr "Пожаловаться"
+
+#: single-movies.php:1
+#, fuzzy
+msgid "Message"
+msgstr "Сообщение"
+
+#: single-movies.php:1
+#, fuzzy
+msgid "SEND"
+msgstr "ОТПРАВИТЬ"
+
+#: taxonomy-letters.php:1
+#, fuzzy
+msgid "Movies and Series by Letter"
+msgstr "Фильмы и сериалы по буквам"
+
+#: taxonomy-letters.php:1
+#, fuzzy
+msgid "Title"
+msgstr "Заголовок"
+
+#: taxonomy-letters.php:1
+#, fuzzy
+msgid "Duration"
+msgstr "Продолжительность"
+
+#: taxonomy-letters.php:1
+#, fuzzy
+msgid "Genres"
+msgstr "Жанры"
+
+#: taxonomy-letters.php:1
+#, fuzzy
+msgid "Votes"
+msgstr "Голоса"
+
+#: taxonomy-letters.php:1
+#, fuzzy
+msgid "Oops! no post found"
+msgstr "Упс! Почта не найдена"
+
+#: taxonomy.php:1
+#, fuzzy
+msgid "Sorted by:"
+msgstr "Сортировано:"
+
+#: taxonomy.php:1
+#, fuzzy
+msgid "Popular"
+msgstr "Популярные"
+
+#. Theme Name of the plugin/theme
+#, fuzzy
+msgid "toroflix"
+msgstr "toroflix"
+
+#. Theme URI of the plugin/theme
+#, fuzzy
+msgid "https://toroflix.com/"
+msgstr "https://toroflix.com/"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid "Theme for movies"
+msgstr "Тема для кино"
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "ToroThemes"
+msgstr "Торотемы"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://torothemes.com/"
+msgstr "https://torothemes.com/"

@@ -1,0 +1,687 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: toroflix\n"
+"POT-Creation-Date: 2020-10-11 00:17-0500\n"
+"PO-Revision-Date: 2020-10-11 00:17-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:5
+#, fuzzy
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "很抱歉，找不到這個頁面。"
+
+#: 404.php:6 taxonomy-letters.php:1
+#, fuzzy
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr "在這裡找不到任何相符內容。請改用以下連結或使用搜尋功能。"
+
+#: 404.php:10
+#, fuzzy
+msgid "Most Used Categories"
+msgstr "常用分類"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Default"
+msgstr "預設"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Colors"
+msgstr "顏色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Color scheme"
+msgstr "配色方案"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Main Color"
+msgstr "主要顏色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Body Background"
+msgstr "主體背景顏色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "General - Text Color"
+msgstr "一般-文字顏色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "General - Links Color"
+msgstr "常規-鏈接顏色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "General - Titles - Color"
+msgstr "一般-標題-顏色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Header - Background"
+msgstr "標頭-背景"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Menu Links Color"
+msgstr "選單連結顏色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Menu Links Color Hover"
+msgstr "菜單鏈接色彩懸停"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Menu Icons Color"
+msgstr "菜單圖標顏色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Submenus Brackground"
+msgstr "子菜單背景"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Submenus Text Color"
+msgstr "子菜單文字顏色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Submenus Links Color"
+msgstr "子菜單鏈接顏色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Submenus Links Color Hover"
+msgstr "子菜單鏈接顏色懸停"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Banner Top Background"
+msgstr "橫幅頂部背景"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Banner Top Links Color"
+msgstr "橫幅頂部鏈接顏色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Banner Top Links Color Hover"
+msgstr "橫幅頂部鏈接顏色懸停"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Banner Top Text Color"
+msgstr "橫幅頂部文字顏色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Buttons Background"
+msgstr "按鈕背景"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Buttons Background Hover"
+msgstr "按鈕背景懸停"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Buttons Text Color"
+msgstr "按鈕文字顏色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Buttons Text Color Hover"
+msgstr "按鈕文字顏色懸停"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Form controls Background"
+msgstr "表單控件背景"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Form controls Text Color"
+msgstr "表單控件文本顏色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Widget - Backgorund"
+msgstr "小部件-Backgorund"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Widget Title - Backgorund"
+msgstr "小工具標題-Backgorund"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Widget Title - Color"
+msgstr "小部件標題-顏色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Widget Text Color"
+msgstr "小工具文字顏色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Widget Links Color"
+msgstr "小部件鏈接顏色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Widget Links Color Hover"
+msgstr "小部件鏈接顏色懸停"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Title Background"
+msgstr "表標題背景"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Title Text"
+msgstr "表格標題文字"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Cell Background"
+msgstr "表單元格背景"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Cell Background Hover"
+msgstr "表格單元格背景懸停"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Cell Text"
+msgstr "表格單元格文字"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Cell Links"
+msgstr "表格單元格鏈接"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Cell Links Hover"
+msgstr "表格單元格鏈接懸停"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Pagination Links Background"
+msgstr "分頁鏈接背景"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Pagination Links Background Hover"
+msgstr "分頁鏈接背景懸停"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Pagination Links Color"
+msgstr "分頁鏈接顏色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Pagination Links Color Hover"
+msgstr "分頁鏈接顏色懸停"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Top - Background"
+msgstr "頁腳頂部-背景"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Top - Text Color"
+msgstr "頁腳頂部-文字顏色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Top - Links Color"
+msgstr "頁腳頂部-鏈接顏色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Top - Links Color Hover"
+msgstr "頁腳頂部-鏈接顏色懸停"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Bot - Background"
+msgstr "頁腳機器人-背景"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Bot - Text Color"
+msgstr "頁腳機器人-文字顏色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Bot - Links Color"
+msgstr "頁腳機器人-鏈接顏色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Bot - Links Color Hover"
+msgstr "頁腳機器人-鏈接顏色懸停"
+
+#: archive-movies.php:14 public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "Movies"
+msgstr "電影"
+
+#: archive-movies.php:23 archive-series.php:23 archive.php:1 category.php:1
+#: search.php:55 tag.php:1 taxonomy.php:1
+#, fuzzy
+msgid "There are no articles"
+msgstr "沒有文章"
+
+#: archive-series.php:14 public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "Series"
+msgstr "系列"
+
+#: archive.php:1
+#, fuzzy
+msgid "Archive"
+msgstr "彙整"
+
+#: comments.php:1
+#, fuzzy
+msgid "Comments"
+msgstr "評論"
+
+#: comments.php:1
+#, fuzzy
+msgid "Cancel reply"
+msgstr "取消回覆"
+
+#: comments.php:1
+#, fuzzy
+msgid "Post Comment"
+msgstr "發表評論"
+
+#: includes/class-toroflix-movies.php:1
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Movie"
+msgstr "電影"
+
+#: includes/class-toroflix-movies.php:1
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Serie"
+msgstr "意甲"
+
+#: includes/class-toroflix-sidebar.php:1
+#, fuzzy
+msgid "Sidebar Principal"
+msgstr "側邊欄負責人"
+
+#: includes/class-toroflix-sidebar.php:1
+#, fuzzy
+msgid "Sidebar principal del theme"
+msgstr "補充工具欄主要主題"
+
+#: includes/class-toroflix-sidebar.php:1
+#, fuzzy
+msgid "Sidebar Footer"
+msgstr "側欄頁尾"
+
+#: includes/class-toroflix-sidebar.php:1
+#, fuzzy
+msgid "Sidebar Footer del theme"
+msgstr "側欄頁腳德爾主題"
+
+#: includes/customizer.php:1
+#, fuzzy
+msgid "Header Option"
+msgstr "標頭選項"
+
+#: includes/sticky_post.php:1
+#, fuzzy
+msgid "Sticky Post"
+msgstr "置頂文章"
+
+#: includes/sticky_post.php:1
+#, fuzzy
+msgid "Sticky post"
+msgstr "粘帖"
+
+#: includes/widgets/widget-toroflix-filter.php:1
+#: includes/widgets/widget-toroflix-footer-info.php:1
+#: includes/widgets/widget-toroflix-genres.php:1
+#: includes/widgets/widget-toroflix-letters.php:1
+#: includes/widgets/widget-toroflix-navigation.php:1
+#: includes/widgets/widget-toroflix-search-movies.php:1
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Title:"
+msgstr "標題："
+
+#: includes/widgets/widget-toroflix-footer-info.php:1
+#, fuzzy
+msgid "Description:"
+msgstr "描述："
+
+#: includes/widgets/widget-toroflix-navigation.php:1
+#, fuzzy
+msgid "Select menu"
+msgstr "選擇選單"
+
+#: includes/widgets/widget-toroflix-search-movies.php:1 taxonomy-letters.php:1
+#, fuzzy
+msgid "Year"
+msgstr "年"
+
+#: includes/widgets/widget-toroflix-search-movies.php:1
+#: public/partials/do_action/do_action_episode.php:53
+#: public/partials/do_action/do_action_season.php:1
+#: public/partials/do_action/do_action_series.php:61
+#: public/partials/template/header_single.php:1
+#: public/partials/template/loop-principal.php:1
+#: public/partials/template/loop-slider.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "Genre"
+msgstr "類型"
+
+#: includes/widgets/widget-toroflix-search-movies.php:1
+#, fuzzy
+msgid "SEARCH"
+msgstr "搜索"
+
+#: includes/widgets/widget-toroflix-top-series.php:1 taxonomy-letters.php:1
+#, fuzzy
+msgid "Type"
+msgstr "類型"
+
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Number of posts to show:"
+msgstr "顯示文章總數:"
+
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Design"
+msgstr "設計"
+
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Order"
+msgstr "訂單"
+
+#: includes/widgets/widget-toroflix-top-series.php:1
+#: public/partials/do_action/do_action_home.php:1 taxonomy.php:1
+#, fuzzy
+msgid "Latest"
+msgstr "最新"
+
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Views (Require WP-PostViews)"
+msgstr "視圖（需要WP-PostViews）"
+
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Random"
+msgstr "隨機"
+
+#: page.php:12
+#, fuzzy
+msgid "Pages:"
+msgstr "頁面:"
+
+#: public/partials/do_action/do_action_episode.php:44 taxonomy-episodes.php:1
+#, fuzzy
+msgid "All Episodes"
+msgstr "所有劇集"
+
+#: public/partials/do_action/do_action_episode.php:51
+#: public/partials/do_action/do_action_season.php:1
+#: public/partials/do_action/do_action_series.php:60
+#: public/partials/template/header_single.php:1
+#: public/partials/template/loop-principal.php:1
+#: public/partials/template/loop-slider.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "Director"
+msgstr "導演 (Director)"
+
+#: public/partials/do_action/do_action_episode.php:55
+#: public/partials/do_action/do_action_season.php:1
+#: public/partials/do_action/do_action_series.php:62
+#: public/partials/template/header_single.php:1
+#: public/partials/template/loop-principal.php:1
+#: public/partials/template/loop-slider.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "Cast"
+msgstr "投"
+
+#: public/partials/do_action/do_action_episode.php:68
+#: public/partials/do_action/do_action_episode.php:114
+#: public/partials/do_action/do_action_season.php:1
+#: public/partials/do_action/do_action_series.php:129
+#, fuzzy
+msgid "Season"
+msgstr "季節"
+
+#: public/partials/do_action/do_action_episode.php:114
+#, fuzzy
+msgid "Links for The"
+msgstr "的鏈接"
+
+#: public/partials/do_action/do_action_episode.php:114
+#, fuzzy
+msgid "Episode"
+msgstr "電視影集單集評論"
+
+#: public/partials/do_action/do_action_episode.php:128
+#: public/partials/do_action/do_action_single.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "Option"
+msgstr "選項"
+
+#: public/partials/do_action/do_action_episode.php:132
+#: public/partials/do_action/do_action_single.php:1
+#, fuzzy
+msgid "Download"
+msgstr "下載"
+
+#: public/partials/do_action/do_action_episode.php:169
+#: public/partials/do_action/do_action_season.php:1
+#: public/partials/do_action/do_action_series.php:166
+#: public/partials/do_action/do_action_single.php:1
+#, fuzzy
+msgid "More titles like this"
+msgstr "更多類似的標題"
+
+#: public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "Most popular"
+msgstr "最受歡迎"
+
+#: public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "View more"
+msgstr "查看更多"
+
+#: public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "Sorted by"
+msgstr "排序"
+
+#: public/partials/do_action/do_action_home.php:1 taxonomy.php:1
+#, fuzzy
+msgid "Views"
+msgstr "瀏覽量"
+
+#: public/partials/do_action/do_action_home.php:1
+#: public/partials/do_action/do_action_series.php:14
+#, fuzzy
+msgid "Seasons"
+msgstr "季節"
+
+#: public/partials/do_action/do_action_home.php:1
+#: public/partials/do_action/do_action_series.php:14
+#, fuzzy
+msgid "Episodes"
+msgstr "類似"
+
+#: public/partials/do_action/do_action_series.php:44
+#, fuzzy
+msgid "ON AIR"
+msgstr "正在播出"
+
+#: public/partials/do_action/do_action_series.php:44
+#, fuzzy
+msgid "ENDED"
+msgstr "已結束"
+
+#: public/partials/do_action/do_action_series.php:80
+#: public/partials/template/header_single.php:1
+#, fuzzy
+msgid "Watch Trailer"
+msgstr "觀看預告"
+
+#: public/partials/do_action/do_action_single.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "Options"
+msgstr "選項"
+
+#: public/partials/do_action/do_action_single.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "WATCH ONLINE"
+msgstr "在線觀看"
+
+#: public/partials/do_action/do_action_single.php:1
+#, fuzzy
+msgid "Links"
+msgstr "連結"
+
+#: public/partials/template/loop-principal.php:1
+#: public/partials/template/loop-slider.php:1
+#, fuzzy
+msgid "Watch Now"
+msgstr "立即觀看"
+
+#: searchform.php:1
+#, fuzzy
+msgid "Search movies"
+msgstr "搜索電影"
+
+#: searchform.php:1
+#, fuzzy
+msgid "Loading"
+msgstr "載入中"
+
+#: searchform.php:1
+#, fuzzy
+msgid "Show More Results"
+msgstr "顯示更多結果"
+
+#: single-movies.php:1
+#, fuzzy
+msgid "Report Form"
+msgstr "報表"
+
+#: single-movies.php:1
+#, fuzzy
+msgid "Message"
+msgstr "訊息"
+
+#: single-movies.php:1
+#, fuzzy
+msgid "SEND"
+msgstr "發送"
+
+#: taxonomy-letters.php:1
+#, fuzzy
+msgid "Movies and Series by Letter"
+msgstr "電影和劇集"
+
+#: taxonomy-letters.php:1
+#, fuzzy
+msgid "Title"
+msgstr "標題"
+
+#: taxonomy-letters.php:1
+#, fuzzy
+msgid "Duration"
+msgstr "持續時間"
+
+#: taxonomy-letters.php:1
+#, fuzzy
+msgid "Genres"
+msgstr "Genres"
+
+#: taxonomy-letters.php:1
+#, fuzzy
+msgid "Votes"
+msgstr "投票"
+
+#: taxonomy-letters.php:1
+#, fuzzy
+msgid "Oops! no post found"
+msgstr "糟糕！找不到帖子"
+
+#: taxonomy.php:1
+#, fuzzy
+msgid "Sorted by:"
+msgstr "排序："
+
+#: taxonomy.php:1
+#, fuzzy
+msgid "Popular"
+msgstr "熱門"
+
+#. Theme Name of the plugin/theme
+#, fuzzy
+msgid "toroflix"
+msgstr "托羅非克斯"
+
+#. Theme URI of the plugin/theme
+#, fuzzy
+msgid "https://toroflix.com/"
+msgstr "https://toroflix.com/"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid "Theme for movies"
+msgstr "電影主題"
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "ToroThemes"
+msgstr "Toro主題"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://torothemes.com/"
+msgstr "https://torothemes.com/"

@@ -1,0 +1,689 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: toroflix\n"
+"POT-Creation-Date: 2020-10-11 00:11-0500\n"
+"PO-Revision-Date: 2020-10-11 00:12-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:5
+#, fuzzy
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Pagina non trovata."
+
+#: 404.php:6 taxonomy-letters.php:1
+#, fuzzy
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Non abbiamo trovato risultati corrispondenti alla tua ricerca. Per favore "
+"prova di nuovo con parole diverse."
+
+#: 404.php:10
+#, fuzzy
+msgid "Most Used Categories"
+msgstr "Categorie più utilizzate"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Default"
+msgstr "Predefinito"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Colors"
+msgstr "Colori"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Color scheme"
+msgstr "Schema colore"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Main Color"
+msgstr "Colore principale"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Body Background"
+msgstr "Sfondo del Body"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "General - Text Color"
+msgstr "Generale - Colore del testo"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "General - Links Color"
+msgstr "Generale - Link Colore"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "General - Titles - Color"
+msgstr "Generale - Titoli - Colore"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Header - Background"
+msgstr "Intestazione - Sfondo"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Menu Links Color"
+msgstr "Colore dei link nel menù"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Menu Links Color Hover"
+msgstr "Collegamenti del menu Colore Hover"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Menu Icons Color"
+msgstr "Menu Icone Colore"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Submenus Brackground"
+msgstr "Sottomenù Terra di Brack"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Submenus Text Color"
+msgstr "Sottomenù Colore del testo"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Submenus Links Color"
+msgstr "Sottomenù Link Colore"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Submenus Links Color Hover"
+msgstr "Sottomenù Link Colore Hover"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Banner Top Background"
+msgstr "Banner Top Background"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Banner Top Links Color"
+msgstr "Banner Top Links Colore"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Banner Top Links Color Hover"
+msgstr "Banner Top Links Colore Hover"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Banner Top Text Color"
+msgstr "Banner Top Colore del testo"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Buttons Background"
+msgstr "Pulsanti di sfondo"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Buttons Background Hover"
+msgstr "Pulsanti di sfondo Hover"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Buttons Text Color"
+msgstr "Colore del testo nei pulsanti"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Buttons Text Color Hover"
+msgstr "Colore del testo hover dei pulsanti"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Form controls Background"
+msgstr "Controlli di forma Sfondo"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Form controls Text Color"
+msgstr "Controlli di forma Colore del testo"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Widget - Backgorund"
+msgstr "Widget - Backgorund"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Widget Title - Backgorund"
+msgstr "Titolo del widget - Backgorund"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Widget Title - Color"
+msgstr "Titolo del widget - Colore"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Widget Text Color"
+msgstr "Colore Testo Widget"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Widget Links Color"
+msgstr "Colore link widget"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Widget Links Color Hover"
+msgstr "Widget Link Colore Hover"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Title Background"
+msgstr "Titolo della tabella"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Title Text"
+msgstr "Tabella Titolo testo"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Cell Background"
+msgstr "Sfondo delle celle da tavolo"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Cell Background Hover"
+msgstr "Sfondo della cella da tavolo Hover"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Cell Text"
+msgstr "Tabella Testo della cella"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Cell Links"
+msgstr "Collegamenti delle celle da tavolo"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Cell Links Hover"
+msgstr "Tabella Cell Links Hover"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Pagination Links Background"
+msgstr "Sfondo dei link di paginazione"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Pagination Links Background Hover"
+msgstr "Paginazione Link sfondo Hover"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Pagination Links Color"
+msgstr "Colore dei link di paginazione"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Pagination Links Color Hover"
+msgstr "Paginazione Link Colore Hover"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Top - Background"
+msgstr "Piè di pagina in alto - Sfondo"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Top - Text Color"
+msgstr "Piè di pagina in alto - Colore del testo"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Top - Links Color"
+msgstr "Piè di pagina Top - Link Colore"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Top - Links Color Hover"
+msgstr "Piè di pagina Top - Link Colore Hover"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Bot - Background"
+msgstr "Piè di pagina Bot - Sfondo"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Bot - Text Color"
+msgstr "Piè di pagina Bot - Colore del testo"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Bot - Links Color"
+msgstr "Piè di pagina Bot - Link Colore"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Bot - Links Color Hover"
+msgstr "Piè di pagina Bot - Link Color Hover"
+
+#: archive-movies.php:14 public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "Movies"
+msgstr "Film"
+
+#: archive-movies.php:23 archive-series.php:23 archive.php:1 category.php:1
+#: search.php:55 tag.php:1 taxonomy.php:1
+#, fuzzy
+msgid "There are no articles"
+msgstr "Non ci sono articoli"
+
+#: archive-series.php:14 public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "Series"
+msgstr "Serie"
+
+#: archive.php:1
+#, fuzzy
+msgid "Archive"
+msgstr "Archivio"
+
+#: comments.php:1
+#, fuzzy
+msgid "Comments"
+msgstr "Commenti"
+
+#: comments.php:1
+#, fuzzy
+msgid "Cancel reply"
+msgstr "Cancella risposta"
+
+#: comments.php:1
+#, fuzzy
+msgid "Post Comment"
+msgstr "Commenta"
+
+#: includes/class-toroflix-movies.php:1
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Movie"
+msgstr "Film"
+
+#: includes/class-toroflix-movies.php:1
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Serie"
+msgstr "Serie"
+
+#: includes/class-toroflix-sidebar.php:1
+#, fuzzy
+msgid "Sidebar Principal"
+msgstr "Barra laterale Principale"
+
+#: includes/class-toroflix-sidebar.php:1
+#, fuzzy
+msgid "Sidebar principal del theme"
+msgstr "Barra laterale principale del tema"
+
+#: includes/class-toroflix-sidebar.php:1
+#, fuzzy
+msgid "Sidebar Footer"
+msgstr "Piè di pagina laterale"
+
+#: includes/class-toroflix-sidebar.php:1
+#, fuzzy
+msgid "Sidebar Footer del theme"
+msgstr "Barra laterale Piè di pagina del tema"
+
+#: includes/customizer.php:1
+#, fuzzy
+msgid "Header Option"
+msgstr "Opzione di intestazione"
+
+#: includes/sticky_post.php:1
+#, fuzzy
+msgid "Sticky Post"
+msgstr "Post in evidenza"
+
+#: includes/sticky_post.php:1
+#, fuzzy
+msgid "Sticky post"
+msgstr "Post in evidenza"
+
+#: includes/widgets/widget-toroflix-filter.php:1
+#: includes/widgets/widget-toroflix-footer-info.php:1
+#: includes/widgets/widget-toroflix-genres.php:1
+#: includes/widgets/widget-toroflix-letters.php:1
+#: includes/widgets/widget-toroflix-navigation.php:1
+#: includes/widgets/widget-toroflix-search-movies.php:1
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Title:"
+msgstr "Titolo:"
+
+#: includes/widgets/widget-toroflix-footer-info.php:1
+#, fuzzy
+msgid "Description:"
+msgstr "Descrizione:"
+
+#: includes/widgets/widget-toroflix-navigation.php:1
+#, fuzzy
+msgid "Select menu"
+msgstr "Selezionare il menu"
+
+#: includes/widgets/widget-toroflix-search-movies.php:1 taxonomy-letters.php:1
+#, fuzzy
+msgid "Year"
+msgstr "Anno"
+
+#: includes/widgets/widget-toroflix-search-movies.php:1
+#: public/partials/do_action/do_action_episode.php:53
+#: public/partials/do_action/do_action_season.php:1
+#: public/partials/do_action/do_action_series.php:61
+#: public/partials/template/header_single.php:1
+#: public/partials/template/loop-principal.php:1
+#: public/partials/template/loop-slider.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "Genre"
+msgstr "Genere"
+
+#: includes/widgets/widget-toroflix-search-movies.php:1
+#, fuzzy
+msgid "SEARCH"
+msgstr "CERCA"
+
+#: includes/widgets/widget-toroflix-top-series.php:1 taxonomy-letters.php:1
+#, fuzzy
+msgid "Type"
+msgstr "Tipo"
+
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Number of posts to show:"
+msgstr "Numero di post da mostrare:"
+
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Design"
+msgstr "Design"
+
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Order"
+msgstr "Ordine"
+
+#: includes/widgets/widget-toroflix-top-series.php:1
+#: public/partials/do_action/do_action_home.php:1 taxonomy.php:1
+#, fuzzy
+msgid "Latest"
+msgstr "Ultimi"
+
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Views (Require WP-PostViews)"
+msgstr "Visualizzazioni (Richiedi WP-PostViews)"
+
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Random"
+msgstr "Casuale"
+
+#: page.php:12
+#, fuzzy
+msgid "Pages:"
+msgstr "Pagine:"
+
+#: public/partials/do_action/do_action_episode.php:44 taxonomy-episodes.php:1
+#, fuzzy
+msgid "All Episodes"
+msgstr "Tutti gli episodi"
+
+#: public/partials/do_action/do_action_episode.php:51
+#: public/partials/do_action/do_action_season.php:1
+#: public/partials/do_action/do_action_series.php:60
+#: public/partials/template/header_single.php:1
+#: public/partials/template/loop-principal.php:1
+#: public/partials/template/loop-slider.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "Director"
+msgstr "Regista"
+
+#: public/partials/do_action/do_action_episode.php:55
+#: public/partials/do_action/do_action_season.php:1
+#: public/partials/do_action/do_action_series.php:62
+#: public/partials/template/header_single.php:1
+#: public/partials/template/loop-principal.php:1
+#: public/partials/template/loop-slider.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "Cast"
+msgstr "Cast"
+
+#: public/partials/do_action/do_action_episode.php:68
+#: public/partials/do_action/do_action_episode.php:114
+#: public/partials/do_action/do_action_season.php:1
+#: public/partials/do_action/do_action_series.php:129
+#, fuzzy
+msgid "Season"
+msgstr "Stagione"
+
+#: public/partials/do_action/do_action_episode.php:114
+#, fuzzy
+msgid "Links for The"
+msgstr "Link per il"
+
+#: public/partials/do_action/do_action_episode.php:114
+#, fuzzy
+msgid "Episode"
+msgstr "Episodio"
+
+#: public/partials/do_action/do_action_episode.php:128
+#: public/partials/do_action/do_action_single.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "Option"
+msgstr "Opzione"
+
+#: public/partials/do_action/do_action_episode.php:132
+#: public/partials/do_action/do_action_single.php:1
+#, fuzzy
+msgid "Download"
+msgstr "Download"
+
+#: public/partials/do_action/do_action_episode.php:169
+#: public/partials/do_action/do_action_season.php:1
+#: public/partials/do_action/do_action_series.php:166
+#: public/partials/do_action/do_action_single.php:1
+#, fuzzy
+msgid "More titles like this"
+msgstr "Altri titoli come questo"
+
+#: public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "Most popular"
+msgstr "Più popolari"
+
+#: public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "View more"
+msgstr "Vedi di più"
+
+#: public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "Sorted by"
+msgstr "Filtra per"
+
+#: public/partials/do_action/do_action_home.php:1 taxonomy.php:1
+#, fuzzy
+msgid "Views"
+msgstr "Visualizzazioni"
+
+#: public/partials/do_action/do_action_home.php:1
+#: public/partials/do_action/do_action_series.php:14
+#, fuzzy
+msgid "Seasons"
+msgstr "Stagione"
+
+#: public/partials/do_action/do_action_home.php:1
+#: public/partials/do_action/do_action_series.php:14
+#, fuzzy
+msgid "Episodes"
+msgstr "Episodi"
+
+#: public/partials/do_action/do_action_series.php:44
+#, fuzzy
+msgid "ON AIR"
+msgstr "IN AEREO"
+
+#: public/partials/do_action/do_action_series.php:44
+#, fuzzy
+msgid "ENDED"
+msgstr "SCADUTO"
+
+#: public/partials/do_action/do_action_series.php:80
+#: public/partials/template/header_single.php:1
+#, fuzzy
+msgid "Watch Trailer"
+msgstr "Guarda il trailer"
+
+#: public/partials/do_action/do_action_single.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "Options"
+msgstr "Opzioni"
+
+#: public/partials/do_action/do_action_single.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "WATCH ONLINE"
+msgstr "OROLOGIO ONLINE"
+
+#: public/partials/do_action/do_action_single.php:1
+#, fuzzy
+msgid "Links"
+msgstr "Link"
+
+#: public/partials/template/loop-principal.php:1
+#: public/partials/template/loop-slider.php:1
+#, fuzzy
+msgid "Watch Now"
+msgstr "Guarda Ora"
+
+#: searchform.php:1
+#, fuzzy
+msgid "Search movies"
+msgstr "Ricerca film"
+
+#: searchform.php:1
+#, fuzzy
+msgid "Loading"
+msgstr "Caricamento"
+
+#: searchform.php:1
+#, fuzzy
+msgid "Show More Results"
+msgstr "Mostra altri risultati"
+
+#: single-movies.php:1
+#, fuzzy
+msgid "Report Form"
+msgstr "Form di segnalazione"
+
+#: single-movies.php:1
+#, fuzzy
+msgid "Message"
+msgstr "Messaggio"
+
+#: single-movies.php:1
+#, fuzzy
+msgid "SEND"
+msgstr "INVIA"
+
+#: taxonomy-letters.php:1
+#, fuzzy
+msgid "Movies and Series by Letter"
+msgstr "Film e serie per lettera"
+
+#: taxonomy-letters.php:1
+#, fuzzy
+msgid "Title"
+msgstr "Titolo"
+
+#: taxonomy-letters.php:1
+#, fuzzy
+msgid "Duration"
+msgstr "Durata"
+
+#: taxonomy-letters.php:1
+#, fuzzy
+msgid "Genres"
+msgstr "Generi"
+
+#: taxonomy-letters.php:1
+#, fuzzy
+msgid "Votes"
+msgstr "Voti"
+
+#: taxonomy-letters.php:1
+#, fuzzy
+msgid "Oops! no post found"
+msgstr "Oops! nessun post trovato"
+
+#: taxonomy.php:1
+#, fuzzy
+msgid "Sorted by:"
+msgstr "Ordina per:"
+
+#: taxonomy.php:1
+#, fuzzy
+msgid "Popular"
+msgstr "Popolari"
+
+#. Theme Name of the plugin/theme
+#, fuzzy
+msgid "toroflix"
+msgstr "toroflix"
+
+#. Theme URI of the plugin/theme
+#, fuzzy
+msgid "https://toroflix.com/"
+msgstr "https://toroflix.com/"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid "Theme for movies"
+msgstr "Tema per i film"
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "ToroThemes"
+msgstr "Torotei"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://torothemes.com/"
+msgstr "https://torothemes.com/"

@@ -1,0 +1,687 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: toroflix\n"
+"POT-Creation-Date: 2020-10-11 00:16-0500\n"
+"PO-Revision-Date: 2020-10-11 00:16-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:5
+#, fuzzy
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "ページが見つかりません。"
+
+#: 404.php:6 taxonomy-letters.php:1
+#, fuzzy
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr "お探しのページが見つかりませんでした。検索してみてはいかがですか？"
+
+#: 404.php:10
+#, fuzzy
+msgid "Most Used Categories"
+msgstr "よく使われるカテゴリー"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Default"
+msgstr "デフォルト"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Colors"
+msgstr "色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Color scheme"
+msgstr "カラーパターン"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Main Color"
+msgstr "メインカラー"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Body Background"
+msgstr "ボディ背景"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "General - Text Color"
+msgstr "一般 - テキストの色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "General - Links Color"
+msgstr "一般 - リンク集 カラー"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "General - Titles - Color"
+msgstr "一般 - タイトル - カラー"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Header - Background"
+msgstr "ヘッダー - 背景"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Menu Links Color"
+msgstr "メニューリンク カラー"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Menu Links Color Hover"
+msgstr "メニューリンク カラーホバー"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Menu Icons Color"
+msgstr "メニューアイコンの色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Submenus Brackground"
+msgstr "サブメニューの背景"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Submenus Text Color"
+msgstr "サブメニューのテキストの色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Submenus Links Color"
+msgstr "サブメニューのリンク色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Submenus Links Color Hover"
+msgstr "サブメニュー リンク集 カラーホバー"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Banner Top Background"
+msgstr "バナートップの背景"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Banner Top Links Color"
+msgstr "バナートップリンクカラー"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Banner Top Links Color Hover"
+msgstr "バナートップリンク カラーホバー"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Banner Top Text Color"
+msgstr "バナートップテキストの色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Buttons Background"
+msgstr "ボタンの背景"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Buttons Background Hover"
+msgstr "ボタンの背景のホバー"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Buttons Text Color"
+msgstr "ボタン テキストの色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Buttons Text Color Hover"
+msgstr "ボタン テキストの色 ホバー"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Form controls Background"
+msgstr "フォームコントロール 背景"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Form controls Text Color"
+msgstr "フォームコントロール テキストの色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Widget - Backgorund"
+msgstr "ウィジェット - Backgorund"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Widget Title - Backgorund"
+msgstr "ウィジェットタイトル - Backgorund"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Widget Title - Color"
+msgstr "ウィジェットタイトル - 色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Widget Text Color"
+msgstr "小工具文字顏色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Widget Links Color"
+msgstr "ウィジェットリンクの色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Widget Links Color Hover"
+msgstr "ウィジェットリンク カラーホバー"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Title Background"
+msgstr "テーブルタイトル 背景"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Title Text"
+msgstr "テーブルタイトルテキスト"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Cell Background"
+msgstr "テーブルセルの背景"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Cell Background Hover"
+msgstr "テーブルセルの背景のホバー"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Cell Text"
+msgstr "テーブルセルテキスト"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Cell Links"
+msgstr "テーブルセルリンク"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Table Cell Links Hover"
+msgstr "テーブルセルリンクホバー"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Pagination Links Background"
+msgstr "ページネーションリンク 背景"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Pagination Links Background Hover"
+msgstr "ページネーションリンク 背景ホバー"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Pagination Links Color"
+msgstr "ページネーションリンク カラー"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Pagination Links Color Hover"
+msgstr "ページネーションリンク カラーホバー"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Top - Background"
+msgstr "フッタートップ - 背景"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Top - Text Color"
+msgstr "フッタートップ - テキストの色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Top - Links Color"
+msgstr "フッタートップ - リンクの色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Top - Links Color Hover"
+msgstr "フッタートップ - リンク集 カラーホバー"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Bot - Background"
+msgstr "フッターボット - 背景"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Bot - Text Color"
+msgstr "フッターボット - テキストの色"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Bot - Links Color"
+msgstr "フッターボット - リンクカラー"
+
+#: admin/customizer/class-toroflix-color.php:1
+#, fuzzy
+msgid "Footer Bot - Links Color Hover"
+msgstr "フッターボット - リンクカラーホバー"
+
+#: archive-movies.php:14 public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "Movies"
+msgstr "映画"
+
+#: archive-movies.php:23 archive-series.php:23 archive.php:1 category.php:1
+#: search.php:55 tag.php:1 taxonomy.php:1
+#, fuzzy
+msgid "There are no articles"
+msgstr "記事はありません。"
+
+#: archive-series.php:14 public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "Series"
+msgstr "シリーズ"
+
+#: archive.php:1
+#, fuzzy
+msgid "Archive"
+msgstr "アーカイブ"
+
+#: comments.php:1
+#, fuzzy
+msgid "Comments"
+msgstr "コメント"
+
+#: comments.php:1
+#, fuzzy
+msgid "Cancel reply"
+msgstr "返信をキャンセル"
+
+#: comments.php:1
+#, fuzzy
+msgid "Post Comment"
+msgstr "コメントを投稿"
+
+#: includes/class-toroflix-movies.php:1
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Movie"
+msgstr "映画"
+
+#: includes/class-toroflix-movies.php:1
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Serie"
+msgstr "セリエ"
+
+#: includes/class-toroflix-sidebar.php:1
+#, fuzzy
+msgid "Sidebar Principal"
+msgstr "サイドバープリンシパル"
+
+#: includes/class-toroflix-sidebar.php:1
+#, fuzzy
+msgid "Sidebar principal del theme"
+msgstr "テーマの主要なサイドバー"
+
+#: includes/class-toroflix-sidebar.php:1
+#, fuzzy
+msgid "Sidebar Footer"
+msgstr "サイドバーフッター"
+
+#: includes/class-toroflix-sidebar.php:1
+#, fuzzy
+msgid "Sidebar Footer del theme"
+msgstr "テーマのサイドバーフッター"
+
+#: includes/customizer.php:1
+#, fuzzy
+msgid "Header Option"
+msgstr "ヘッダーオプション"
+
+#: includes/sticky_post.php:1
+#, fuzzy
+msgid "Sticky Post"
+msgstr "先頭に表示する投稿"
+
+#: includes/sticky_post.php:1
+#, fuzzy
+msgid "Sticky post"
+msgstr "付箋紙"
+
+#: includes/widgets/widget-toroflix-filter.php:1
+#: includes/widgets/widget-toroflix-footer-info.php:1
+#: includes/widgets/widget-toroflix-genres.php:1
+#: includes/widgets/widget-toroflix-letters.php:1
+#: includes/widgets/widget-toroflix-navigation.php:1
+#: includes/widgets/widget-toroflix-search-movies.php:1
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Title:"
+msgstr "タイトル:"
+
+#: includes/widgets/widget-toroflix-footer-info.php:1
+#, fuzzy
+msgid "Description:"
+msgstr "説明:"
+
+#: includes/widgets/widget-toroflix-navigation.php:1
+#, fuzzy
+msgid "Select menu"
+msgstr "メニューを選択"
+
+#: includes/widgets/widget-toroflix-search-movies.php:1 taxonomy-letters.php:1
+#, fuzzy
+msgid "Year"
+msgstr "年"
+
+#: includes/widgets/widget-toroflix-search-movies.php:1
+#: public/partials/do_action/do_action_episode.php:53
+#: public/partials/do_action/do_action_season.php:1
+#: public/partials/do_action/do_action_series.php:61
+#: public/partials/template/header_single.php:1
+#: public/partials/template/loop-principal.php:1
+#: public/partials/template/loop-slider.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "Genre"
+msgstr "ジャンル"
+
+#: includes/widgets/widget-toroflix-search-movies.php:1
+#, fuzzy
+msgid "SEARCH"
+msgstr "検索"
+
+#: includes/widgets/widget-toroflix-top-series.php:1 taxonomy-letters.php:1
+#, fuzzy
+msgid "Type"
+msgstr "タイプ"
+
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Number of posts to show:"
+msgstr "表示する記事の数:"
+
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Design"
+msgstr "デザイン"
+
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Order"
+msgstr "注文"
+
+#: includes/widgets/widget-toroflix-top-series.php:1
+#: public/partials/do_action/do_action_home.php:1 taxonomy.php:1
+#, fuzzy
+msgid "Latest"
+msgstr "最新"
+
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Views (Require WP-PostViews)"
+msgstr "ビュー (Require WP-PostViews)"
+
+#: includes/widgets/widget-toroflix-top-series.php:1
+#, fuzzy
+msgid "Random"
+msgstr "ランダム"
+
+#: page.php:12
+#, fuzzy
+msgid "Pages:"
+msgstr "ページ:"
+
+#: public/partials/do_action/do_action_episode.php:44 taxonomy-episodes.php:1
+#, fuzzy
+msgid "All Episodes"
+msgstr "全エピソード"
+
+#: public/partials/do_action/do_action_episode.php:51
+#: public/partials/do_action/do_action_season.php:1
+#: public/partials/do_action/do_action_series.php:60
+#: public/partials/template/header_single.php:1
+#: public/partials/template/loop-principal.php:1
+#: public/partials/template/loop-slider.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "Director"
+msgstr "監督"
+
+#: public/partials/do_action/do_action_episode.php:55
+#: public/partials/do_action/do_action_season.php:1
+#: public/partials/do_action/do_action_series.php:62
+#: public/partials/template/header_single.php:1
+#: public/partials/template/loop-principal.php:1
+#: public/partials/template/loop-slider.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "Cast"
+msgstr "キャスト"
+
+#: public/partials/do_action/do_action_episode.php:68
+#: public/partials/do_action/do_action_episode.php:114
+#: public/partials/do_action/do_action_season.php:1
+#: public/partials/do_action/do_action_series.php:129
+#, fuzzy
+msgid "Season"
+msgstr "シーズン"
+
+#: public/partials/do_action/do_action_episode.php:114
+#, fuzzy
+msgid "Links for The"
+msgstr "リンク集"
+
+#: public/partials/do_action/do_action_episode.php:114
+#, fuzzy
+msgid "Episode"
+msgstr "エピソード"
+
+#: public/partials/do_action/do_action_episode.php:128
+#: public/partials/do_action/do_action_single.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "Option"
+msgstr "オプション"
+
+#: public/partials/do_action/do_action_episode.php:132
+#: public/partials/do_action/do_action_single.php:1
+#, fuzzy
+msgid "Download"
+msgstr "ダウンロード"
+
+#: public/partials/do_action/do_action_episode.php:169
+#: public/partials/do_action/do_action_season.php:1
+#: public/partials/do_action/do_action_series.php:166
+#: public/partials/do_action/do_action_single.php:1
+#, fuzzy
+msgid "More titles like this"
+msgstr "このようなタイトルをもっと見る"
+
+#: public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "Most popular"
+msgstr "1番人気"
+
+#: public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "View more"
+msgstr "更に表示"
+
+#: public/partials/do_action/do_action_home.php:1
+#, fuzzy
+msgid "Sorted by"
+msgstr "並び替え"
+
+#: public/partials/do_action/do_action_home.php:1 taxonomy.php:1
+#, fuzzy
+msgid "Views"
+msgstr "閲覧数"
+
+#: public/partials/do_action/do_action_home.php:1
+#: public/partials/do_action/do_action_series.php:14
+#, fuzzy
+msgid "Seasons"
+msgstr "シーズン"
+
+#: public/partials/do_action/do_action_home.php:1
+#: public/partials/do_action/do_action_series.php:14
+#, fuzzy
+msgid "Episodes"
+msgstr "エピソード"
+
+#: public/partials/do_action/do_action_series.php:44
+#, fuzzy
+msgid "ON AIR"
+msgstr "オンエア"
+
+#: public/partials/do_action/do_action_series.php:44
+#, fuzzy
+msgid "ENDED"
+msgstr "終了"
+
+#: public/partials/do_action/do_action_series.php:80
+#: public/partials/template/header_single.php:1
+#, fuzzy
+msgid "Watch Trailer"
+msgstr "予告編を見る"
+
+#: public/partials/do_action/do_action_single.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "Options"
+msgstr "オプション"
+
+#: public/partials/do_action/do_action_single.php:1 taxonomy-episodes.php:1
+#, fuzzy
+msgid "WATCH ONLINE"
+msgstr "オンラインで見る"
+
+#: public/partials/do_action/do_action_single.php:1
+#, fuzzy
+msgid "Links"
+msgstr "リンク"
+
+#: public/partials/template/loop-principal.php:1
+#: public/partials/template/loop-slider.php:1
+#, fuzzy
+msgid "Watch Now"
+msgstr "今すぐ見る"
+
+#: searchform.php:1
+#, fuzzy
+msgid "Search movies"
+msgstr "映画を探す"
+
+#: searchform.php:1
+#, fuzzy
+msgid "Loading"
+msgstr "読み込み中"
+
+#: searchform.php:1
+#, fuzzy
+msgid "Show More Results"
+msgstr "結果をもっと表示"
+
+#: single-movies.php:1
+#, fuzzy
+msgid "Report Form"
+msgstr "レポートフォーム"
+
+#: single-movies.php:1
+#, fuzzy
+msgid "Message"
+msgstr "メッセージ"
+
+#: single-movies.php:1
+#, fuzzy
+msgid "SEND"
+msgstr "送信"
+
+#: taxonomy-letters.php:1
+#, fuzzy
+msgid "Movies and Series by Letter"
+msgstr "手紙による映画・シリーズ"
+
+#: taxonomy-letters.php:1
+#, fuzzy
+msgid "Title"
+msgstr "タイトル"
+
+#: taxonomy-letters.php:1
+#, fuzzy
+msgid "Duration"
+msgstr "期間"
+
+#: taxonomy-letters.php:1
+#, fuzzy
+msgid "Genres"
+msgstr "ジャンル"
+
+#: taxonomy-letters.php:1
+#, fuzzy
+msgid "Votes"
+msgstr "投票"
+
+#: taxonomy-letters.php:1
+#, fuzzy
+msgid "Oops! no post found"
+msgstr "おっと、投稿が見つかりませんでした。"
+
+#: taxonomy.php:1
+#, fuzzy
+msgid "Sorted by:"
+msgstr "ソート順："
+
+#: taxonomy.php:1
+#, fuzzy
+msgid "Popular"
+msgstr "人気"
+
+#. Theme Name of the plugin/theme
+#, fuzzy
+msgid "toroflix"
+msgstr "トロフリックス"
+
+#. Theme URI of the plugin/theme
+#, fuzzy
+msgid "https://toroflix.com/"
+msgstr "https://toroflix.com/"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid "Theme for movies"
+msgstr "映画のテーマ"
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "ToroThemes"
+msgstr "トロテーマ"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://torothemes.com/"
+msgstr "https://torothemes.com/"

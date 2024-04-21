@@ -1,0 +1,873 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-11 04:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: archive.php:14
+msgid "Archive"
+msgstr ""
+
+#: archive.php:23 archive-movies.php:89 tag.php:23 search.php:217
+#: taxonomy.php:32 category.php:23 archive-series.php:89
+msgid "There are no articles"
+msgstr ""
+
+#: archive-movies.php:53 includes/customizer.php:301
+#: public/partials/do_action/do_action_home.php:136
+msgid "Movies"
+msgstr ""
+
+#: page.php:45
+msgid "Pages:"
+msgstr ""
+
+#: taxonomy-episodes.php:36 public/partials/do_action/do_action_single.php:24
+msgid "Options"
+msgstr ""
+
+#: taxonomy-episodes.php:52 public/partials/do_action/do_action_single.php:40
+#: public/partials/do_action/do_action_single.php:150
+#: public/partials/do_action/do_action_episode.php:509
+msgid "Option"
+msgstr ""
+
+#: taxonomy-episodes.php:56 public/partials/do_action/do_action_single.php:44
+msgid "WATCH ONLINE"
+msgstr ""
+
+#: taxonomy-episodes.php:81 public/partials/do_action/do_action_episode.php:173
+msgid "All Episodes"
+msgstr ""
+
+#: taxonomy-episodes.php:87 public/partials/template/header_single.php:52
+#: public/partials/template/loop-principal.php:60
+#: public/partials/template/loop-slider.php:22
+#: public/partials/do_action/do_action_series.php:237
+#: public/partials/do_action/do_action_episode.php:201
+#: public/partials/do_action/do_action_season.php:33
+msgid "Director"
+msgstr ""
+
+#: taxonomy-episodes.php:89
+#: includes/widgets/widget-toroflix-search-movies.php:43
+#: public/partials/template/header_single.php:53
+#: public/partials/template/loop-principal.php:61
+#: public/partials/template/loop-slider.php:23
+#: public/partials/do_action/do_action_series.php:241
+#: public/partials/do_action/do_action_episode.php:209
+#: public/partials/do_action/do_action_season.php:35
+msgid "Genre"
+msgstr ""
+
+#: taxonomy-episodes.php:91 public/partials/template/header_single.php:55
+#: public/partials/template/loop-principal.php:62
+#: public/partials/template/loop-slider.php:25
+#: public/partials/do_action/do_action_series.php:245
+#: public/partials/do_action/do_action_episode.php:217
+#: public/partials/do_action/do_action_season.php:37
+msgid "Cast"
+msgstr ""
+
+#: taxonomy-letters.php:6
+msgid "Movies and Series by Letter"
+msgstr ""
+
+#: taxonomy-letters.php:18
+msgid "Title"
+msgstr ""
+
+#: taxonomy-letters.php:19 includes/widgets/widget-toroflix-top-series.php:161
+msgid "Type"
+msgstr ""
+
+#: taxonomy-letters.php:20
+#: includes/widgets/widget-toroflix-search-movies.php:25
+msgid "Year"
+msgstr ""
+
+#: taxonomy-letters.php:21
+msgid "Duration"
+msgstr ""
+
+#: taxonomy-letters.php:22
+msgid "Genres"
+msgstr ""
+
+#: taxonomy-letters.php:23
+msgid "Votes"
+msgstr ""
+
+#: taxonomy-letters.php:65
+msgid "Oops! no post found"
+msgstr ""
+
+#: taxonomy-letters.php:66 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: taxonomy.php:17
+msgid "Sorted by:"
+msgstr ""
+
+#: taxonomy.php:19 includes/widgets/widget-toroflix-top-series.php:181
+#: public/partials/do_action/do_action_home.php:156
+#: public/partials/do_action/do_action_home.php:208
+msgid "Latest"
+msgstr ""
+
+#: taxonomy.php:20
+msgid "Popular"
+msgstr ""
+
+#: taxonomy.php:21 public/partials/do_action/do_action_home.php:157
+#: public/partials/do_action/do_action_home.php:209
+msgid "Views"
+msgstr ""
+
+#: comments.php:4
+msgid "Comments"
+msgstr ""
+
+#: comments.php:9
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:10
+msgid "Post Comment"
+msgstr ""
+
+#: archive-series.php:53 includes/customizer.php:302
+#: public/partials/do_action/do_action_home.php:189
+msgid "Series"
+msgstr ""
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:37
+msgid "Most Used Categories"
+msgstr ""
+
+#: single-movies.php:22
+msgid "Report Form"
+msgstr ""
+
+#: single-movies.php:23
+msgid "Message"
+msgstr ""
+
+#: single-movies.php:25
+msgid "SEND"
+msgstr ""
+
+#: searchform.php:2
+msgid "Search movies"
+msgstr ""
+
+#: searchform.php:5
+msgid "Loading"
+msgstr ""
+
+#: searchform.php:7
+msgid "Show More Results"
+msgstr ""
+
+#: admin/class-toroflix-admin.php:42
+msgid "Menu Header"
+msgstr ""
+
+#: public/class-toroflix-public.php:45
+msgid "No entries found"
+msgstr ""
+
+#: public/class-toroflix-public.php:46
+msgid "Select all"
+msgstr ""
+
+#: public/class-toroflix-public.php:47
+msgid "Select none"
+msgstr ""
+
+#: public/class-toroflix-public.php:48
+msgid "Click here to search"
+msgstr ""
+
+#: public/class-toroflix-public.php:49
+msgid "Still loading data..."
+msgstr ""
+
+#: public/class-toroflix-public.php:50
+#: public/partials/do_action/do_action_home.php:151
+#: public/partials/do_action/do_action_home.php:203
+msgid "View more"
+msgstr ""
+
+#: includes/customizer.php:75
+msgid "Slider: Number of items"
+msgstr ""
+
+#: includes/customizer.php:87
+msgid "Slider: Show type post"
+msgstr ""
+
+#: includes/customizer.php:104
+msgid "Slider: Order by"
+msgstr ""
+
+#: includes/customizer.php:117
+msgid "ADS Home Toroflix"
+msgstr ""
+
+#: includes/customizer.php:129
+msgid "ADS top letter"
+msgstr ""
+
+#: includes/customizer.php:142
+msgid "ADS bottom letter"
+msgstr ""
+
+#: includes/customizer.php:156
+msgid "ADS Block Movies"
+msgstr ""
+
+#: includes/customizer.php:169
+msgid "ADS Block Series"
+msgstr ""
+
+#: includes/customizer.php:182
+msgid "ADS Block Season"
+msgstr ""
+
+#: includes/customizer.php:193
+msgid "ADS Single Toroflix"
+msgstr ""
+
+#: includes/customizer.php:205
+msgid "ADS bottom player"
+msgstr ""
+
+#: includes/customizer.php:218
+msgid "ADS bottom title"
+msgstr ""
+
+#: includes/customizer.php:227
+msgid "Pages Toroflix"
+msgstr ""
+
+#: includes/customizer.php:239
+msgid "URL Movies Page"
+msgstr ""
+
+#: includes/customizer.php:251
+msgid "URL Series Page"
+msgstr ""
+
+#: includes/customizer.php:258
+msgid "Block Home"
+msgstr ""
+
+#: includes/customizer.php:296
+msgid "Blocks Home"
+msgstr ""
+
+#: includes/customizer.php:297
+msgid "Select blocks to show in home"
+msgstr ""
+
+#: includes/customizer.php:300
+msgid "Most Popular"
+msgstr ""
+
+#: includes/customizer.php:303
+#: public/partials/do_action/do_action_series.php:53
+#: public/partials/do_action/do_action_home.php:241
+msgid "Seasons"
+msgstr ""
+
+#: includes/customizer.php:304
+#: public/partials/do_action/do_action_series.php:53
+#: public/partials/do_action/do_action_home.php:276
+#: public/partials/do_action/do_action_home.php:300
+msgid "Episodes"
+msgstr ""
+
+#: includes/customizer.php:333
+msgid "Popular Block: Number of items"
+msgstr ""
+
+#: includes/customizer.php:344
+msgid "Movies Title Block"
+msgstr ""
+
+#: includes/customizer.php:356
+msgid "Movies Block: Number of items"
+msgstr ""
+
+#: includes/customizer.php:367
+msgid "Series Title Block"
+msgstr ""
+
+#: includes/customizer.php:378
+msgid "Series Block: Number of items"
+msgstr ""
+
+#: includes/customizer.php:389
+msgid "Episodes Title Block"
+msgstr ""
+
+#: includes/customizer.php:400
+msgid "Episodes Block: Number of items"
+msgstr ""
+
+#: includes/customizer.php:411
+msgid "Seasons Title Block"
+msgstr ""
+
+#: includes/customizer.php:422
+msgid "Seasons Block: Number of items"
+msgstr ""
+
+#: includes/customizer.php:490
+msgid "Poster Option"
+msgstr ""
+
+#: includes/customizer.php:502
+msgid "Poster Option View"
+msgstr ""
+
+#: includes/customizer.php:503
+msgid "Select options to show in poster of series and movies"
+msgstr ""
+
+#: includes/customizer.php:534
+msgid "Footer"
+msgstr ""
+
+#: includes/customizer.php:546
+msgid "Text"
+msgstr ""
+
+#: includes/class-toroflix-sidebar.php:5
+msgid "Sidebar Principal"
+msgstr ""
+
+#: includes/class-toroflix-sidebar.php:7
+msgid "Sidebar principal del theme"
+msgstr ""
+
+#: includes/class-toroflix-sidebar.php:14
+msgid "Sidebar Footer"
+msgstr ""
+
+#: includes/class-toroflix-sidebar.php:16
+msgid "Sidebar Footer del theme"
+msgstr ""
+
+#: includes/class-toroflix-movies_backup.php:77
+#: includes/class-toroflix-movies.php:121
+#: includes/widgets/widget-toroflix-top-series.php:118
+#: includes/widgets/widget-toroflix-top-series.php:138
+msgid "Movie"
+msgstr ""
+
+#: includes/class-toroflix-movies_backup.php:79
+#: includes/class-toroflix-movies.php:123
+#: includes/widgets/widget-toroflix-top-series.php:118
+#: includes/widgets/widget-toroflix-top-series.php:138
+msgid "Serie"
+msgstr ""
+
+#: includes/class-toroflix-movies_backup.php:323
+#: includes/class-toroflix-movies_backup.php:325
+#: includes/class-toroflix-movies_backup.php:342
+#: includes/class-toroflix-movies_backup.php:344
+#: includes/class-toroflix-movies_backup.php:360
+#: includes/class-toroflix-movies_backup.php:362
+#: includes/class-toroflix-movies_backup.php:465
+#: includes/class-toroflix-movies_backup.php:467
+#: includes/class-toroflix-movies_backup.php:471
+#: includes/class-toroflix-movies_backup.php:473
+#: includes/class-toroflix-movies_backup.php:486
+#: includes/class-toroflix-movies_backup.php:489
+#: includes/class-toroflix-movies_backup.php:491
+#: includes/class-toroflix-movies.php:389
+#: includes/class-toroflix-movies.php:391
+#: includes/class-toroflix-movies.php:408
+#: includes/class-toroflix-movies.php:410
+#: includes/class-toroflix-movies.php:426
+#: includes/class-toroflix-movies.php:428
+#: includes/class-toroflix-movies.php:564
+#: includes/class-toroflix-movies.php:566
+#: includes/class-toroflix-movies.php:570
+#: includes/class-toroflix-movies.php:572
+#: includes/class-toroflix-movies.php:585
+#: includes/class-toroflix-movies.php:588
+#: includes/class-toroflix-movies.php:590
+#, php-format
+msgid "Image %s"
+msgstr ""
+
+#: includes/class-toroflix-movies_backup.php:374
+#: includes/class-toroflix-movies_backup.php:378
+#: includes/class-toroflix-movies_backup.php:387
+#: includes/class-toroflix-movies_backup.php:388
+#: includes/class-toroflix-movies_backup.php:394
+#: includes/class-toroflix-movies_backup.php:395
+#: includes/class-toroflix-movies_backup.php:401
+#: includes/class-toroflix-movies_backup.php:405
+#: includes/class-toroflix-movies.php:441
+#: includes/class-toroflix-movies.php:446
+#: includes/class-toroflix-movies.php:459
+#: includes/class-toroflix-movies.php:461
+#: includes/class-toroflix-movies.php:463
+#: includes/class-toroflix-movies.php:471
+#: includes/class-toroflix-movies.php:474
+#: includes/class-toroflix-movies.php:476
+#: includes/class-toroflix-movies.php:487
+#: includes/class-toroflix-movies.php:492
+msgid "Background"
+msgstr ""
+
+#: includes/class-toroflix-add-theme-support.php:83
+msgid "<i class=\"fa-arrow-left\"></i>"
+msgstr ""
+
+#: includes/class-toroflix-add-theme-support.php:102
+msgid "<i class=\"fa-arrow-right\"></i>"
+msgstr ""
+
+#: includes/class-toroflix-add-theme-support.php:118
+msgid "Comment..."
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:64
+#: admin/customizer/class-toroflix-color.php:133
+msgid "Default"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:120
+msgid "Colors"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:130
+msgid "Color scheme"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:136
+msgid "Main Color"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:137
+msgid "Body Background"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:138
+msgid "General - Text Color"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:139
+msgid "General - Links Color"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:140
+msgid "General - Titles - Color"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:141
+msgid "Header - Background"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:142
+msgid "Menu Links Color"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:143
+msgid "Menu Links Color Hover"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:144
+msgid "Menu Icons Color"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:145
+msgid "Submenus Brackground"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:146
+msgid "Submenus Text Color"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:147
+msgid "Submenus Links Color"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:148
+msgid "Submenus Links Color Hover"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:149
+msgid "Banner Top Background"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:150
+msgid "Banner Top Links Color"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:151
+msgid "Banner Top Links Color Hover"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:152
+msgid "Banner Top Text Color"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:153
+msgid "Buttons Background"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:154
+msgid "Buttons Background Hover"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:155
+msgid "Buttons Text Color"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:156
+msgid "Buttons Text Color Hover"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:157
+msgid "Form controls Background"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:158
+msgid "Form controls Text Color"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:159
+msgid "Widget - Backgorund"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:160
+msgid "Widget Title - Backgorund"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:161
+msgid "Widget Title - Color"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:162
+msgid "Widget Text Color"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:163
+msgid "Widget Links Color"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:164
+msgid "Widget Links Color Hover"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:165
+msgid "Table Title Background"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:166
+msgid "Table Title Text"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:167
+msgid "Table Cell Background"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:168
+msgid "Table Cell Background Hover"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:169
+msgid "Table Cell Text"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:170
+msgid "Table Cell Links"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:171
+msgid "Table Cell Links Hover"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:172
+msgid "Pagination Links Background"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:173
+msgid "Pagination Links Background Hover"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:174
+msgid "Pagination Links Color"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:175
+msgid "Pagination Links Color Hover"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:176
+msgid "Footer Top - Background"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:177
+msgid "Footer Top - Text Color"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:178
+msgid "Footer Top - Links Color"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:179
+msgid "Footer Top - Links Color Hover"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:180
+msgid "Footer Bot - Background"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:181
+msgid "Footer Bot - Text Color"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:182
+msgid "Footer Bot - Links Color"
+msgstr ""
+
+#: admin/customizer/class-toroflix-color.php:183
+msgid "Footer Bot - Links Color Hover"
+msgstr ""
+
+#: includes/widgets/widget-toroflix-footer-info.php:53
+#: includes/widgets/widget-toroflix-genres.php:39
+#: includes/widgets/widget-toroflix-search-movies.php:70
+#: includes/widgets/widget-toroflix-navigation.php:40
+#: includes/widgets/widget-toroflix-letters.php:28
+#: includes/widgets/widget-toroflix-top-series.php:157
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/widget-toroflix-footer-info.php:57
+msgid "Description:"
+msgstr ""
+
+#: includes/widgets/widget-toroflix-genres.php:10
+msgid "Show list of all categories"
+msgstr ""
+
+#: includes/widgets/widget-toroflix-search-movies.php:60
+msgid "SEARCH"
+msgstr ""
+
+#: includes/widgets/widget-toroflix-navigation.php:44
+msgid "Select menu"
+msgstr ""
+
+#: includes/widgets/widget-toroflix-top-series.php:168
+msgid "Number of posts to show:"
+msgstr ""
+
+#: includes/widgets/widget-toroflix-top-series.php:171
+msgid "Design"
+msgstr ""
+
+#: includes/widgets/widget-toroflix-top-series.php:179
+msgid "Order"
+msgstr ""
+
+#: includes/widgets/widget-toroflix-top-series.php:182
+msgid "Views (Require WP-PostViews)"
+msgstr ""
+
+#: includes/widgets/widget-toroflix-top-series.php:183
+msgid "Random"
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:23
+msgid "Theme License"
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:24
+msgid "Enter your theme license key."
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:25
+msgid "License Key"
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:26
+msgid "License Action"
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:27
+msgid "Deactivate License"
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:28
+msgid "Activate License"
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:29
+#: helpers/theme-updater/updater/theme-updater.php:41
+msgid "License status is unknown."
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:30
+msgid "Renew?"
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:31
+msgid "unlimited"
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:32
+msgid "License key is active."
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:33
+#, php-format
+msgid "Expires %s."
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:34
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:35
+#, php-format
+msgid "License key expired %s."
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:36
+msgid "License key has expired."
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:37
+msgid "License keys do not match."
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:38
+msgid "License is inactive."
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:39
+msgid "License key is disabled."
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:40
+msgid "Site is inactive."
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:42
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: helpers/theme-updater/updater/theme-updater.php:43
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</a>"
+"."
+msgstr ""
+
+#: public/partials/template/header_single.php:58
+#: public/partials/do_action/do_action_series.php:317
+msgid "Watch Trailer"
+msgstr ""
+
+#: public/partials/template/loop-principal.php:64
+#: public/partials/template/loop-slider.php:27
+msgid "Watch Now"
+msgstr ""
+
+#: public/partials/do_action/do_action_series.php:173
+msgid "ON AIR"
+msgstr ""
+
+#: public/partials/do_action/do_action_series.php:173
+msgid "ENDED"
+msgstr ""
+
+#: public/partials/do_action/do_action_series.php:513
+#: public/partials/do_action/do_action_episode.php:269
+#: public/partials/do_action/do_action_episode.php:453
+#: public/partials/do_action/do_action_season.php:49
+msgid "Season"
+msgstr ""
+
+#: public/partials/do_action/do_action_series.php:661
+#: public/partials/do_action/do_action_single.php:191
+#: public/partials/do_action/do_action_episode.php:673
+#: public/partials/do_action/do_action_season.php:120
+msgid "More titles like this"
+msgstr ""
+
+#: public/partials/do_action/do_action_home.php:71
+msgid "Most popular"
+msgstr ""
+
+#: public/partials/do_action/do_action_home.php:154
+#: public/partials/do_action/do_action_home.php:206
+msgid "Sorted by"
+msgstr ""
+
+#: public/partials/do_action/do_action_single.php:135
+msgid "Links"
+msgstr ""
+
+#: public/partials/do_action/do_action_single.php:154
+#: public/partials/do_action/do_action_episode.php:525
+msgid "Download"
+msgstr ""
+
+#: public/partials/do_action/do_action_episode.php:453
+msgid "Links for The"
+msgstr ""
+
+#: public/partials/do_action/do_action_episode.php:453
+msgid "Episode"
+msgstr ""
+
+#. Name of the theme
+msgid "toroflix"
+msgstr ""
+
+#. Description of the theme
+msgid "Theme for movies"
+msgstr ""
+
+#. URI of the theme
+msgid "https://toroflix.com/"
+msgstr ""
+
+#. Author of the theme
+msgid "ToroThemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://torothemes.com/"
+msgstr ""
